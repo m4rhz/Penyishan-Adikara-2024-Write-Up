@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Dec 20 23:42:47 2024
+Invocation: foremost flag.pdf 
+Output directory: /mnt/c/Users/Aqil/Downloads/New folder/Adikara-Forensic/Polygrot/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: flag.pdf
+Start: Fri Dec 20 23:42:47 2024
+Length: 10 KB (10500 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.zip 	      10 KB 	          0 	 
+1:	00000000.pdf 	       9 KB 	         30 	 
+Finish: Fri Dec 20 23:42:47 2024
+
+2 FILES EXTRACTED
+	
+zip:= 1
+pdf:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri Dec 20 23:42:47 2024
