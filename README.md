@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d38e818a-1009-41d0-aece-d38a2aab73da)# Penyishan-Adikara-2024-Write-Up
+# Penyishan-Adikara-2024-Write-Up
 # Misc
 ## Sanity Check
 ### Description
