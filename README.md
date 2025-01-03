@@ -124,7 +124,7 @@ ADIKARACTF{OoO_ez_overflow_part_1_1fa032}
 
 ### Solve
 File pada challenge ini sama dengan file sebelumnya cuman bedanya kita mengirim payload yang mengubah nilai overflow_me menjadi `0xdeadbeef`, sehingga server akan memberikan flag. Berikut 
-```
+```python
 from pwn import *
 
 # Hubungkan ke server target menggunakan fungsi remote()
